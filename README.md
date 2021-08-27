@@ -10,6 +10,12 @@ Klicken Sie auf: Authorize
 
 Geben Sie die beiliegenden Zugangsdaten ein
 
+Klicken Sie auf: BIMMaschinencluster/Maschinencluster
+
 Klicken Sie auf: Maschinencluster
 
-Klicken Sie auf: Test.draw.io
+Klicken Sie auf: Maschinencluster.drawio
+
+Nun können Sie das Maschinencluster sehen und bearbeiten.
+
+Wenn Sie Ihre Änderungen speichern möchten, unter "File" "Save" klciken und bei "Commit Message Name oder Firma eingeben.
