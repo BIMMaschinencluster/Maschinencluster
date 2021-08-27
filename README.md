@@ -8,7 +8,7 @@ Klicken Sie auf: Open Existing Diagram
 
 Klicken Sie auf: Authorize
 
-Geben Sie die beiliegenden Zugangsdaten ein
+Geben Sie die beiliegenden Zugangsdaten ein (Textdokument)
 
 Klicken Sie auf: BIMMaschinencluster/Maschinencluster
 
