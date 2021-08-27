@@ -18,4 +18,4 @@ Klicken Sie auf: Maschinencluster.drawio
 
 Nun können Sie das Maschinencluster sehen und bearbeiten.
 
-Wenn Sie Ihre Änderungen speichern möchten, unter "File" "Save" klciken und bei "Commit Message Name oder Firma eingeben.
+Wenn Sie Ihre Änderungen speichern möchten, unter "File" "Save" klicken und bei "Commit Message Name oder Firma eingeben.
